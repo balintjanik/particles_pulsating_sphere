@@ -1,2 +1,4 @@
-# particles_pulsating_sphere
-A Processing project containing a simple but visually appealing particle system
+# Pulsating Sphere
+
+
+<img src="data/sample_short.gif" alt="sample gif">
